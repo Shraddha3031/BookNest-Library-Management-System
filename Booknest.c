@@ -4,7 +4,7 @@
 
 /*
 -------------------------------------------------
-Project Title : BookNest – Smart Library Manager
+Project Title : BookNest â€“ Smart Library Manager
 Developed By  : Shraddha Dusane
 Course        : B.Tech Computer Engineering
 Subject       : Data Structures
@@ -225,7 +225,7 @@ int main() {
     int choice;
 
     do {
-        printf("\n?? BookNest – Smart Library Manager ??\n");
+        printf("\n?? BookNest â€“ Smart Library Manager ??\n");
         printf("1. Add Book\n");
         printf("2. Issue Book\n");
         printf("3. Return Book\n");
